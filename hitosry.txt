@@ -1,0 +1,22 @@
+    1  ls
+    2  pwd
+    3  git version
+    4  git config --global user.name "tmmnumanuma"
+    5  git config --global user.email toonuma88@gmail.com
+    6  cd ~/Desktop/
+    7  cd intro_git/
+    8  ls
+    9  git init
+   10  ls -a
+   11  ls -a .git/
+   12  git status
+   13  pwd
+   14  ls -a
+   15  git add first_git.txt 
+   16  git commit
+   17  git remote add origin https://github.com/tmmnumanuma/intro_git.git
+   18  git push -u origin main
+   19  git branch -M main
+   20  git push -u origin main
+   21  history
+   22  history > hitosry.txt
